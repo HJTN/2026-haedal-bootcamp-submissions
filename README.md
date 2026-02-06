@@ -1,5 +1,5 @@
 # 2026-haedal-bootcamp-submissions
-**2025 하반기 부트캠프 대체 과제 제출 Repo입니다!**
+**2025 하반기 부트캠프 대체 과제 제출 레포지토리 입니다**
 
 # 해달 준회원 백준 과제 제출 레포
 
@@ -31,9 +31,9 @@ problems/
 ## Pull Request 생성
 - Compare & pull request 버튼 클릭
 - PR 폼 설정
-- **base** repository: `해달_계정/2025-haedal-bootcamp-submissions`
+- **base** repository: `해달_계정/2026-haedal-bootcamp-submissions`
 - base branch: `main`
-- **head** repository: `yourID/2025-haedal-bootcamp-submissions`
+- **head** repository: `yourID/2026-haedal-bootcamp-submissions`
 - compare branch: `main`
 
 
